@@ -3,7 +3,7 @@ Free Desk
 ### Free Desk Bootstrap Theme 0.0.1.0(e) Experimental
 ##### Free Bootstrap Theme By Rexzooly Kai Black, demo at http://kurobox.co.uk
 ##### Full demo of 0.0.1.0  Experimental [Here](http://kurobox.co.uk/preview/freedeskdemo/)
-##### Full demo of 0.0.0.7 [Here](http://kurobox.co.uk/preview/freedesk/) Old Dropbox downloads can be found here
+##### Full demo of 0.0.0.7 [Here](http://kurobox.co.uk/preview/freedesk/) Old Dropbox downloads can be found [Here](http://kurobox.co.uk/#theme)
 
 ### Free Desk Modal
 This modal has white, paper and wood, just change the `<div class="draw-body">` section to include
