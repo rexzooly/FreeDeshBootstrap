@@ -27,3 +27,5 @@ one of the options paper or wood `<div class="draw-body paper">` or `<div class=
 http://kurobox.co.uk/preview/freedeskdemo/scroller-index.html this is no longer the default version
 this is now a optional version this the none scroll version is faster so this is why it has become default
 
+###license
+####WTFPL [View wtfpl](http://www.wtfpl.net/txt/copying/)
